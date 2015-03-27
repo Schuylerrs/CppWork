@@ -1,7 +1,6 @@
 /**********************************************************************
  * Assignment:
- * Lesson 03 Sanitization Program
- * Brother Helfrich, CS 470
+ * Sanitization Program
  * Author:
  * Schuyler Summers
  * Summary:
