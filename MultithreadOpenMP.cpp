@@ -1,14 +1,11 @@
 /**********************************************************************
  * Program:
- * Lab OpenMP
- * Brother Jones, CS 345
+ * OpenMP
  * Author:
  * Schuyler Summers
  * Summary:
  * Uses openmp to create threads to break up the calculation of an
  * integral
- * Conclusions:
- * OpenMP is much easier to implement than threads
  ***********************************************************************/
 
 
