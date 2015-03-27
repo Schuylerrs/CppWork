@@ -1,7 +1,6 @@
 /***********************************************************************
 * Program:
-*    Lab ProducerConsumer  
-*    Brother Jones, CS 345
+*    Lab ProducerConsumer
 * Author:
 *    Schuyler Summers
 *
@@ -13,16 +12,6 @@
 * Summary:
 *    This is a program that uses threads as producers and consumors
 ************************************************************************
-*
-* Changes made to my code for the re-submission:
-*   - Changed the producers/consumers to start at 1 rather than 0
-*   - Added a return in the if statement so that it quits if you don't put in
-*     exactly 4 inputs
-*   - Removed the hard coded 5 in the semephore creation and added the global
-*   - Changed the random number to be between 0 and 999 rather than 0 - 9999
-*   - Added a constant for max thread sleep time
-*
-*****************************************************************************/
    
 
 #include <iostream>
