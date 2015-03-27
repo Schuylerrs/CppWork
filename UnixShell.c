@@ -1,7 +1,6 @@
 /***********************************************************************
 * Program:
-*    Lab UnixShell  
-*    Brother Jones, CS 345
+*    UnixShell  
 * Author:
 *    Schuyler Summers
 * Summary:
